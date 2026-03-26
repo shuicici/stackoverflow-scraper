@@ -1,0 +1,16 @@
+{
+  "actorSpecification": 1,
+  "name": "stackoverflow-scraper",
+  "version": "1.0",
+  "title": "Stack Overflow Scraper",
+  "description": "Job listings",
+  "categories": [
+    "Jobs",
+    "Tech"
+  ],
+  "inputSchema": "INPUT.json",
+  "isPublic": true,
+  "isCloud": true,
+  "isAnonymous": false,
+  "output": "./output_schema.json"
+}

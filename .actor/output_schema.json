@@ -1,0 +1,13 @@
+{
+    "actorOutputSchemaVersion": 1,
+    "title": "StackOverflow Scraper Output",
+    "description": "Scraped StackOverflow Q&A data",
+    "properties": {
+        "questions": {
+            "title": "StackOverflow Questions Dataset",
+            "description": "Link to the dataset containing scraped questions",
+            "type": "string",
+            "template": "{{links.apiDefaultDatasetUrl}}"
+        }
+    }
+}
